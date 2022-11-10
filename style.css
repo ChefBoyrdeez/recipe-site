@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+    text-align: center;
+    ;
+}
+h1 {
+    font-weight: bold;
+}
+img {
+    height: auto;
+    width: 800px;
+}
